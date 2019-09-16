@@ -5,5 +5,5 @@ This only supports basic login info (title, URL, username/email, password), so e
 
 ## Run the script:
 ```sh
-node enpass-1pass-convert # If all is successful, it will tell you.
+node enpass-1pass-convert.js # If all is successful, it will tell you.
 ```
